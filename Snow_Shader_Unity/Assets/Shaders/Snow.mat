@@ -60,7 +60,7 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _SnowScale: 40
+    - _SnowScale: 10
     - _VertexOffset: 1
     m_Colors:
     - _Vector3: {r: 0, g: 0, b: 0, a: 0}
