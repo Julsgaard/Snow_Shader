@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-4939183110966481479
+--- !u!114 &-456708776505207942
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -24,7 +24,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: test
-  m_Shader: {fileID: -6465566751694194690, guid: b7382739e3752554fa444d92c1c32f50, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: f5719f5bf3c85954e880e036427f14e8, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
@@ -46,12 +46,36 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _SampleTexture2D_c61b36ca43d6467a9630a642afa39094_Texture_1_Texture2D:
+    - _SampleTexture2D_1455ec7b0c1b4a3f8aa984523740b11b_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 7739973bb508f1b4bb072253e472667b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_3b481b2800d74c42baf374e8530507a4_Texture_1_Texture2D:
         m_Texture: {fileID: 2800000, guid: f79fe462b972ca44d8afc5331bf92f35, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _SampleTexture2D_fee9accaf5ce40ffb22ccd61bae5bb40_Texture_1_Texture2D:
+    - _SampleTexture2D_6b5e4cfc53c04889b58b80935212ba24_Texture_1_Texture2D:
         m_Texture: {fileID: 2800000, guid: f79fe462b972ca44d8afc5331bf92f35, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_767aefc316fe4f32b48447c81059fea4_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: d74b4f1afada75244968ce5caa881067, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_8d693049e5864052b0a65512f7dc1154_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: bbf49232ad4ac9446a7cb76c4d55be69, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_8e0cf80f2b3545e3b3de7b4463c05922_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: bbf49232ad4ac9446a7cb76c4d55be69, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_9fe2cd918ed646e39a33710b73799343_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 3fa432c29c1d37848b7ca412f54586d9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_bdbe3dc17b084000b2c8a863b01781ce_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: cd3b36c6c21281944b39247288cccb6e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -91,7 +115,6 @@ Material:
     - _RefractionModel: 0
     - _RenderQueueType: 1
     - _RequireSplitLighting: 0
-    - _Scale_Sparkle: 8
     - _SrcBlend: 1
     - _StencilRef: 0
     - _StencilRefDepth: 8
@@ -105,6 +128,13 @@ Material:
     - _StencilWriteMaskMV: 41
     - _SupportDecals: 1
     - _SurfaceType: 0
+    - _TessellationBackFaceCullEpsilon: -0.25
+    - _TessellationFactorMaxDistance: 50
+    - _TessellationFactorMinDistance: 20
+    - _TessellationFactorTriangleSize: 100
+    - _TessellationMaxDisplacement: 0.01
+    - _TessellationMode: 0
+    - _TessellationShapeFactor: 0.75
     - _TransparentBackfaceEnable: 0
     - _TransparentCullMode: 2
     - _TransparentDepthPostpassEnable: 0
