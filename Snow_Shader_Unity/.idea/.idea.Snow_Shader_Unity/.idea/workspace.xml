@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cc636e7-0e76-48e5-b8cf-9d409ea0b4cb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Snow_Shader_Unity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Snow_Shader_Unity/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Footprint/InteractiveSnow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shaders/Footprint/InteractiveSnow.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Footprint/Snow.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shaders/Footprint/Snow.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Footprint/SnowHeightMapUpdate.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shaders/Footprint/SnowHeightMapUpdate.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TerrainData_bb0687cc-0437-475c-bec1-3eaadc1a73d1.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TerrainData_bb0687cc-0437-475c-bec1-3eaadc1a73d1.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TerrainData_e35e7809-8feb-4c49-9500-4985e99f38ac.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TerrainData_e35e7809-8feb-4c49-9500-4985e99f38ac.asset.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +104,7 @@
       <option name="presentableId" value="Default" />
       <updated>1735583777367</updated>
       <workItem from="1735583777641" duration="2000" />
-      <workItem from="1735838909644" duration="2403000" />
+      <workItem from="1735838909644" duration="3046000" />
     </task>
     <servers />
   </component>
