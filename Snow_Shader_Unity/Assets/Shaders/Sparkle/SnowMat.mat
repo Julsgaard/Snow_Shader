@@ -34,7 +34,8 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: SnowMat
-  m_Shader: {fileID: -6465566751694194690, guid: 79919237f6ec38741bab86170e5968a6, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 79919237f6ec38741bab86170e5968a6,
+    type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -89,8 +90,28 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_254195ca14fb4e84b0fef962c39684bc_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 55ed87c4c845d5041b2709c13b54824f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_32bd36f7bba74459954f54773ae1b1e0_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 55ed87c4c845d5041b2709c13b54824f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_6aeef64eb5a347dbb36d3d6747ed5eb3_Texture_1_Texture2D:
         m_Texture: {fileID: 2800000, guid: d997a08e9a20a804b8938d1a888ba3d0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_74731e9c58c345cd974ed65c2507f4ae_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: dcb4a39a37c51c04083bdf797d8ccfdf, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_a18869e6e1dd414abc2117ed71775916_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 5bfdc19d5abd1db43978065da1a3e546, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_b24bfb3c6a55456981b4bdc975108e41_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 9fd8c5ec1ec8f0744bf25849e6ef0cbc, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_c61b36ca43d6467a9630a642afa39094_Texture_1_Texture2D:
