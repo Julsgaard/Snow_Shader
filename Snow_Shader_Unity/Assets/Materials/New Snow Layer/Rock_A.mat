@@ -322,7 +322,7 @@ Material:
     - _EnergyConservingSpecularColor: 1
     - _EnvironmentReflections: 1
     - _ForceForwardEmissive: 0
-    - _Fresnel_Intensity: 6
+    - _Fresnel_Intensity: 10
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
@@ -380,12 +380,13 @@ Material:
     - _Snow_Direction_X: 0.15
     - _Snow_Direction_Y: 0.5
     - _Snow_Direction_Z: 0.2
-    - _Snow_Height: 5
-    - _Snow_Noise_Scale: 0.2
+    - _Snow_Height: 3.6105514
+    - _Snow_Noise_Scale: 0.117
     - _Snow_Offset_X: 0
     - _Snow_Offset_Y: 0
     - _Snow_Tiling_X: 4
     - _Snow_Tiling_Y: 4
+    - _Snow_White_Intensity: 1.75
     - _SpecularAAScreenSpaceVariance: 0.1
     - _SpecularAAThreshold: 0.2
     - _SpecularHighlights: 1
@@ -431,6 +432,7 @@ Material:
     - _ZTestModeDistortion: 4
     - _ZTestTransparent: 4
     - _ZWrite: 1
+    - _test: 1.22
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _BaseColorMap_MipInfo: {r: 0, g: 0, b: 0, a: 0}
