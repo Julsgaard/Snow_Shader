@@ -41,6 +41,14 @@ Material:
         m_Texture: {fileID: 2800000, guid: cd3b36c6c21281944b39247288cccb6e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_0e17d4f1549643e0875de56717eb0ad1_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: ee8288c8368c4eb40b080f0d20a0f451, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_188f93fa408e4bf3b02c6e79feda2466_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: ee8288c8368c4eb40b080f0d20a0f451, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_1c1e40e5442149589146954760e75715_Texture_1_Texture2D:
         m_Texture: {fileID: 2800000, guid: ee8288c8368c4eb40b080f0d20a0f451, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -81,11 +89,14 @@ Material:
     m_Floats:
     - _BUILTIN_QueueControl: 0
     - _BUILTIN_QueueOffset: 0
+    - _Intensity: 400
+    - _Intensity_2: 60.4
     - _QueueControl: 0
     - _QueueOffset: 0
     - _SnowScale: 12.4
     - _VertexOffset: 1
-    m_Colors: []
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &3491677819603365267
 MonoBehaviour:
