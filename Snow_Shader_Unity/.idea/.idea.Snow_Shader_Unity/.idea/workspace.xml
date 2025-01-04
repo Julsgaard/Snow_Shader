@@ -5,90 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cc636e7-0e76-48e5-b8cf-9d409ea0b4cb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Editor/ShaderGUI.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Editor/ShaderGUI/FreeTessPimped_GUI.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Editor/ShaderGUI/FreeTessPimped_GUI.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Editor/ShaderGUI/TessStandard_GUI.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Editor/ShaderGUI/TessStandard_GUI.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/DemoScene1.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/DemoScene1.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/DemoScene1Settings.lighting" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/DemoScene1Settings.lighting.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/DemoScene2.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/DemoScene2.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/DemoScene2Settings.lighting" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/DemoScene2Settings.lighting.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Materials/Gray.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Materials/Gray.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Materials/Rock1.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Materials/Rock1.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Materials/Rock2.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Materials/Rock2.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Materials/Water.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Materials/Water.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Models.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Models/Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Models/Materials/cube_chm_pn_tess.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Models/Materials/cube_chm_pn_tess.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Models/Materials/cube_pn_tess.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Models/Materials/cube_pn_tess.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Models/Materials/plane_nogpu_tess.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Models/Materials/plane_nogpu_tess.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Models/Materials/spere_original.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Models/Materials/spere_original.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Models/Materials/sphere_smooth_tess.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Models/Materials/sphere_smooth_tess.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Models/cube.FBX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Models/cube.FBX.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Models/cube_chm.FBX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Models/cube_chm.FBX.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Models/plane.FBX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Models/plane.FBX.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Models/sphere.FBX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Models/sphere.FBX.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Textures.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Textures/rock1b.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Textures/rock1b.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Textures/rock1d.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Textures/rock1d.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Textures/rock1n.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Examples/Textures/rock1n.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Legacy_U4.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Legacy_U4.zip.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Legacy_U5.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Legacy_U5.zip.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/ReadMe.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/ReadMe.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Shaders.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Shaders/FreeTess_Tessellator.cginc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Shaders/FreeTess_Tessellator.cginc.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Shaders/FreeTess_Utils.cginc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Shaders/FreeTess_Utils.cginc.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Shaders/Pimped_Tess.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Shaders/Pimped_Tess.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Shaders/Tess_Standard.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Shaders/Tess_Standard.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Shaders/Tess_Standard_Core.cginc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Shaders/Tess_Standard_Core.cginc.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Shaders/Tess_Standard_Core_Forward.cginc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Shaders/Tess_Standard_Core_Forward.cginc.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Shaders/Tess_Standard_Input.cginc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Shaders/Tess_Standard_Input.cginc.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Shaders/Tess_Standard_Shadow.cginc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Shaders/Tess_Standard_Shadow.cginc.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Shaders/Tess_Standard_Specular.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Shaders/Tess_Standard_Specular.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Shaders/debug.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Shaders/debug/UnityStandardMetaMod.cginc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/DX11_Tessellation_Free/Shaders/debug/UnityStandardMetaMod.cginc.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/test.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DX11_Tessellation/test.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Snow_Shader_Unity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Snow_Shader_Unity/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/Rock_A.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/Rock_A.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/Roof_metall01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/Roof_metall01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/Soil.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/Soil.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/Wall01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/Wall01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/Windows_atlas.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/Windows_atlas.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/Wood_Bark01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/Wood_Bark01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/Wood_planks_02.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/Wood_planks_02.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/Wood_planks_03.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/Wood_planks_03.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/Wood_planks_04.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/Wood_planks_04.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/Wood_planks_05.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/Wood_planks_05.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/test.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/test.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Snow Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Snow Scene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Backup/BackupSnowCombined.shadergraph" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shaders/Backup/BackupSnowCombined.shadergraph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/TestSnowCombined.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shaders/TestSnowCombined.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/TestSnowCombined.shadergraph" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shaders/TestSnowCombined.shadergraph" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,19 +51,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.46f1\Editor\Unity.exe" />
@@ -187,6 +119,7 @@
       <workItem from="1735583777641" duration="2000" />
       <workItem from="1735838909644" duration="3046000" />
       <workItem from="1735869071732" duration="64000" />
+      <workItem from="1736019921711" duration="1460000" />
     </task>
     <servers />
   </component>

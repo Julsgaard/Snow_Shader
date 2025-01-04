@@ -112,10 +112,10 @@ Material:
     - _Snow_Direction_X: 0.5
     - _Snow_Direction_Y: 1
     - _Snow_Direction_Z: 0
-    - _Snow_Height: 2.92
+    - _Snow_Height: 4.16
     - _Snow_Noise: 885.36
     - _Snow_Noise_2: 0.2
-    - _Snow_Noise_Scale: 0.092
+    - _Snow_Noise_Scale: 0.155
     - _Snow_Offset_X: 0
     - _Snow_Offset_Y: 0
     - _Snow_Opacity: 2

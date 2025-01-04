@@ -85,7 +85,10 @@ Material:
     - _SnowDirection_Y: 1
     - _SnowDirection_Z: 0
     - _SnowOpacity: 5
-    - _Snow_Height: 1.47
+    - _Snow_Direction_X: 0.15
+    - _Snow_Direction_Y: 0.5
+    - _Snow_Direction_Z: 0.2
+    - _Snow_Height: 0.74884814
     m_Colors:
     - _BaseColor: {r: 0.77205884, g: 0.77205884, b: 0.77205884, a: 1}
     - _Color: {r: 0.77205884, g: 0.77205884, b: 0.77205884, a: 1}
