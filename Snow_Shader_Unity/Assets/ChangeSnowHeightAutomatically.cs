@@ -24,39 +24,36 @@ public class ChangeSnowHeightAutomatically : MonoBehaviour
         }
     }
 
-    void Update()
+    void FixedUpdate()
     {
         // Change the snow height slowly over time
         foreach (Material material in snowShaderMaterials)
         {
-            // Get the shader from the material
-            Shader shader = material.shader;
-            
             // Get the property ID of the _Snow_Height property
             int snowHeightPropertyID = Shader.PropertyToID("_Snow_Height");
             
             // Get the current snow height
             currentSnowHeight = material.GetFloat(snowHeightPropertyID);
             
-            // Change the snow height over time
-            currentSnowHeight += snowSpeed * Time.deltaTime;
+            // Change the snow height over time and then back smoothly
+            currentSnowHeight = Mathf.Lerp(snowStartHeight, snowEndHeight, Mathf.PingPong(Time.time * snowSpeed, 1));
             
             // Set the _Snow_Height property to the current snow height
             material.SetFloat(snowHeightPropertyID, currentSnowHeight);
         }
         
-        // Reset the snow height to the start height if the snow height is at the end height
-        if (currentSnowHeight >= snowEndHeight)
-        {
-            foreach (Material material in snowShaderMaterials)
-            {
-                // Get the property ID of the _Snow_Height property
-                int snowHeightPropertyID = Shader.PropertyToID("_Snow_Height");
-                
-                // Set the _Snow_Height property to the start height
-                material.SetFloat(snowHeightPropertyID, snowStartHeight);
-            }
-        }
+        // // Reset the snow height to the start height if the snow height is at the end height
+        // if (currentSnowHeight >= snowEndHeight)
+        // {
+        //     foreach (Material material in snowShaderMaterials)
+        //     {
+        //         // Get the property ID of the _Snow_Height property
+        //         int snowHeightPropertyID = Shader.PropertyToID("_Snow_Height");
+        //         
+        //         // Set the _Snow_Height property to the start height
+        //         material.SetFloat(snowHeightPropertyID, snowStartHeight);
+        //     }
+        // }
         
     }
 }

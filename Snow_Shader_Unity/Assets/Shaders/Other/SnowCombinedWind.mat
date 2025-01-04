@@ -96,7 +96,7 @@ Material:
     - _Enable_Deformation: 0
     - _Enable_Snow_Layer: 1
     - _Float: 2.36
-    - _Fresnel_Intensity: 30.43
+    - _Fresnel_Intensity: 8
     - _Intensity: 400
     - _Intensity_2: 60.4
     - _Offset_X: 0

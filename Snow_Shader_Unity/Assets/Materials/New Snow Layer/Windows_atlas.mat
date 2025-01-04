@@ -163,7 +163,7 @@ Material:
     - _EmissionScaleUI: 0
     - _Enable_Deformation: 0
     - _EnvironmentReflections: 1
-    - _Fresnel_Intensity: 10
+    - _Fresnel_Intensity: 8.5
     - _GlossMapScale: 0.5
     - _Glossiness: 0
     - _GlossyReflections: 1
@@ -185,7 +185,7 @@ Material:
     - _Snow_Direction_X: 0.15
     - _Snow_Direction_Y: 0.5
     - _Snow_Direction_Z: 0.2
-    - _Snow_Height: 3.6105514
+    - _Snow_Height: 1.45
     - _Snow_Noise_Scale: 0.117
     - _Snow_Offset_X: 0
     - _Snow_Offset_Y: 0

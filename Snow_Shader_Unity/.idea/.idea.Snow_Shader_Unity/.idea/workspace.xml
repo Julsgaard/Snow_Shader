@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cc636e7-0e76-48e5-b8cf-9d409ea0b4cb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Snow_Shader_Unity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Snow_Shader_Unity/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ChangeSnowHeightAutomatically.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ChangeSnowHeightAutomatically.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/Rock_A.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/Rock_A.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/Roof_metall01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/Roof_metall01.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/Soil.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/Soil.mat" afterDir="false" />
@@ -15,8 +17,8 @@
       <change beforePath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/Wood_planks_03.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/Wood_planks_03.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/Wood_planks_04.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/Wood_planks_04.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/Wood_planks_05.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/New Snow Layer/Wood_planks_05.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Snow Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Snow Scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shaders/SnowCombined.shadergraph" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shaders/SnowCombined.shadergraph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Other/SnowCombinedWind.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shaders/Other/SnowCombinedWind.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/SnowCombined.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shaders/SnowCombined.mat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +117,7 @@
       <workItem from="1735583777641" duration="2000" />
       <workItem from="1735838909644" duration="3046000" />
       <workItem from="1735869071732" duration="64000" />
-      <workItem from="1736019921711" duration="2074000" />
+      <workItem from="1736019921711" duration="2549000" />
     </task>
     <servers />
   </component>
