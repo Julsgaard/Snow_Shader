@@ -61,7 +61,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _Ambient_Occlusion:
-        m_Texture: {fileID: 2800000, guid: 18e08fb48af687d418d33aa1236e884c, type: 3}
+        m_Texture: {fileID: 2800000, guid: b23bd96bac742854da8e2232e73dd914, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _AnisotropyMap:
@@ -369,7 +369,7 @@ Material:
     - _SSRefractionProjectionModel: 0
     - _ShiverDirectionality: 0.5
     - _ShiverDrag: 0.2
-    - _Smoothness: 0.5
+    - _Smoothness: 0
     - _SmoothnessRemapMax: 0.625
     - _SmoothnessRemapMin: 0
     - _SmoothnessTextureChannel: 0
@@ -380,7 +380,7 @@ Material:
     - _Snow_Direction_X: 0.15
     - _Snow_Direction_Y: 0.5
     - _Snow_Direction_Z: 0.2
-    - _Snow_Height: 0.74884814
+    - _Snow_Height: 1.0291111
     - _Snow_Noise_Scale: 0.2
     - _Snow_Offset_X: 0
     - _Snow_Offset_Y: 0
