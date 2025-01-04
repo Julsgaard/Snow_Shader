@@ -7,14 +7,14 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Soil
+  m_Name: Wood_planks_05
   m_Shader: {fileID: -6465566751694194690, guid: 78ef6dec9293f5345b20893cdf894374,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
-  m_LightmapFlags: 1
+  m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -29,15 +29,15 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: ed6daef213fc899469cac425d35e862e, type: 3}
-        m_Scale: {x: 3, y: 3}
+        m_Texture: {fileID: 2800000, guid: ce1831070b2b2c9479f6a53ff1c422c2, type: 3}
+        m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Base_Texture:
-        m_Texture: {fileID: 2800000, guid: ed6daef213fc899469cac425d35e862e, type: 3}
+        m_Texture: {fileID: 2800000, guid: ce1831070b2b2c9479f6a53ff1c422c2, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: 0e15af665fcba014897671d1baf4747c, type: 3}
+        m_Texture: {fileID: 2800000, guid: b2b1da55df675b946a279086a8f963f5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -57,27 +57,27 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: ed6daef213fc899469cac425d35e862e, type: 3}
-        m_Scale: {x: 3, y: 3}
+        m_Texture: {fileID: 2800000, guid: ce1831070b2b2c9479f6a53ff1c422c2, type: 3}
+        m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Metallic:
-        m_Texture: {fileID: 2800000, guid: 4a197e5dd352aad41973c82ff6b51864, type: 3}
+        m_Texture: {fileID: 2800000, guid: 08a7f2dd1ab16ef4fa468c2b4cfd40f4, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 08a7f2dd1ab16ef4fa468c2b4cfd40f4, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Normal:
-        m_Texture: {fileID: 2800000, guid: 0e15af665fcba014897671d1baf4747c, type: 3}
+        m_Texture: {fileID: 2800000, guid: b2b1da55df675b946a279086a8f963f5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
-        m_Texture: {fileID: 2800000, guid: aee891f0f97c7534ba3b1ae4d5884d2e, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
-        m_Texture: {fileID: 2800000, guid: 0d074a9efdb7f16459473124fcb82077, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_0e17d4f1549643e0875de56717eb0ad1_Texture_1_Texture2D:
@@ -147,22 +147,22 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _DstBlendAlpha: 0
-    - _EmissionScaleUI: 0
-    - _Enable_Deformation: 1
+    - _Enable_Deformation: 0
     - _EnvironmentReflections: 1
-    - _GlossMapScale: 1
-    - _Glossiness: 0
+    - _Fresnel_Intensity: 6
+    - _GlossMapScale: 0.5
+    - _Glossiness: 0.5
     - _GlossyReflections: 1
     - _Intensity: 400
     - _Intensity_2: 60.4
     - _Metallic: 0
     - _Mode: 0
-    - _OcclusionStrength: 0
-    - _Parallax: 0.024
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _Smoothness: 0
+    - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SnowDirection_X: 0
     - _SnowDirection_Y: 1
@@ -171,7 +171,7 @@ Material:
     - _Snow_Direction_X: 0.5
     - _Snow_Direction_Y: 1
     - _Snow_Direction_Z: 0
-    - _Snow_Height: 0
+    - _Snow_Height: 1.5
     - _Snow_Noise_Scale: 0.2
     - _Snow_Offset_X: 0
     - _Snow_Offset_Y: 0
@@ -185,14 +185,13 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 0.88235295, g: 0.88235295, b: 0.88235295, a: 1}
-    - _Color: {r: 0.88235295, g: 0.88235295, b: 0.88235295, a: 1}
-    - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
-    - _EmissionColorUI: {r: 1, g: 1, b: 1, a: 1}
+    - _BaseColor: {r: 0.50735295, g: 0.50735295, b: 0.50735295, a: 1}
+    - _Color: {r: 0.50735295, g: 0.50735295, b: 0.50735295, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SnowDirection: {r: 0.2, g: 1, b: 0.2, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
---- !u!114 &5716971722669578210
+--- !u!114 &3730683567160064030
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}

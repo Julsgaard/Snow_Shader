@@ -20,10 +20,10 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Roof_metall01
-  m_Shader: {fileID: -6465566751694194690, guid: 78ef6dec9293f5345b20893cdf894374,
+  m_Name: old_Roof_metall01
+  m_Shader: {fileID: -6465566751694194690, guid: 1c61d89b5f0371e4eb8b7ec3f6dba85e,
     type: 3}
-  m_Parent: {fileID: 2100000, guid: bb481a8cc0e704f4a8c3bb6ee6cf2159, type: 2}
+  m_Parent: {fileID: 2100000, guid: efc23c0bc7c08574eaf75e262a57ea55, type: 2}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -85,7 +85,7 @@ Material:
     - _SnowDirection_Y: 1
     - _SnowDirection_Z: 0
     - _SnowOpacity: 5
-    - _Snow_Height: 0
+    - _Snow_Height: 1.5
     m_Colors:
     - _BaseColor: {r: 0.77205884, g: 0.77205884, b: 0.77205884, a: 1}
     - _Color: {r: 0.77205884, g: 0.77205884, b: 0.77205884, a: 1}

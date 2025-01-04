@@ -36,8 +36,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Rock_A
-  m_Shader: {fileID: -6465566751694194690, guid: 78ef6dec9293f5345b20893cdf894374,
+  m_Name: old_Rock_A
+  m_Shader: {fileID: -6465566751694194690, guid: 1c61d89b5f0371e4eb8b7ec3f6dba85e,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -322,6 +322,7 @@ Material:
     - _EnergyConservingSpecularColor: 1
     - _EnvironmentReflections: 1
     - _ForceForwardEmissive: 0
+    - _Fresnel_Intensity: 6
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
@@ -379,7 +380,7 @@ Material:
     - _Snow_Direction_X: 0.5
     - _Snow_Direction_Y: 1
     - _Snow_Direction_Z: 0
-    - _Snow_Height: 0
+    - _Snow_Height: 1.5
     - _Snow_Noise_Scale: 0.2
     - _Snow_Offset_X: 0
     - _Snow_Offset_Y: 0
