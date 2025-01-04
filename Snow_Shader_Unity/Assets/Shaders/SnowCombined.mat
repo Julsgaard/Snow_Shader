@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: TestSnowCombined
+  m_Name: SnowCombined
   m_Shader: {fileID: -6465566751694194690, guid: fc5a491999411a844a0d16c0722dac4a,
     type: 3}
   m_Parent: {fileID: 0}
@@ -25,19 +25,19 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _Ambient_Occlusion:
-        m_Texture: {fileID: 2800000, guid: 18e08fb48af687d418d33aa1236e884c, type: 3}
+        m_Texture: {fileID: 2800000, guid: 86a4bcee7870e304eadcd00ee6c09322, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Base_Texture:
-        m_Texture: {fileID: 2800000, guid: 7f2e3e9a537d7c447a55d1de15c54494, type: 3}
+        m_Texture: {fileID: 2800000, guid: 3fa3c7a097e2f414986edbc958667a9a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Metallic:
-        m_Texture: {fileID: 2800000, guid: 18e08fb48af687d418d33aa1236e884c, type: 3}
+        m_Texture: {fileID: 2800000, guid: 86a4bcee7870e304eadcd00ee6c09322, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Normal:
-        m_Texture: {fileID: 2800000, guid: bd51ec4a4f6893b408be259a3cbb391f, type: 3}
+        m_Texture: {fileID: 2800000, guid: 120724e6db7814b4595b7d155e984a30, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_0e17d4f1549643e0875de56717eb0ad1_Texture_1_Texture2D:
@@ -88,12 +88,12 @@ Material:
     m_Floats:
     - _Base_Offset_X: 0
     - _Base_Offset_Y: 0
-    - _Base_Tiling_X: 6
-    - _Base_Tiling_Y: 6
+    - _Base_Tiling_X: 1
+    - _Base_Tiling_Y: 1
     - _DeformationScale: 4.1
     - _Deformation_Scale: 50
     - _EnableSnowLayer: 1
-    - _Enable_Deformation: 1
+    - _Enable_Deformation: 0
     - _Enable_Snow_Layer: 1
     - _Float: 2.36
     - _Fresnel_Intensity: 30.43
@@ -109,10 +109,10 @@ Material:
     - _SnowDirection_Z: 0
     - _SnowNoise: 1000
     - _SnowOpacity: 5.1
-    - _Snow_Direction_X: 0.5
-    - _Snow_Direction_Y: 1
-    - _Snow_Direction_Z: 0
-    - _Snow_Height: 4.16
+    - _Snow_Direction_X: -0.152
+    - _Snow_Direction_Y: 0.38
+    - _Snow_Direction_Z: -0.194
+    - _Snow_Height: 2.16
     - _Snow_Noise: 885.36
     - _Snow_Noise_2: 0.2
     - _Snow_Noise_Scale: 0.155
