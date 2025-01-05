@@ -119,8 +119,8 @@ Material:
     - _Snow_Offset_X: 0
     - _Snow_Offset_Y: 0
     - _Snow_Opacity: 2
-    - _Snow_Tiling_X: 3
-    - _Snow_Tiling_Y: 3
+    - _Snow_Tiling_X: 1
+    - _Snow_Tiling_Y: 1
     - _Test: 0.65
     - _Tiling_X: 6
     - _Tiling_Y: 6
