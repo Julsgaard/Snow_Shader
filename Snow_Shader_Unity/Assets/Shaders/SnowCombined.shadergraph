@@ -74,6 +74,9 @@
         },
         {
             "m_Id": "b1fdbbed499c4c5886cb62b6c03c8893"
+        },
+        {
+            "m_Id": "da24b27da92f4378b378dfc2d7e92340"
         }
     ],
     "m_Keywords": [],
@@ -638,6 +641,9 @@
         },
         {
             "m_Id": "e12980eee5074c97bad3ce2a5fb19aa5"
+        },
+        {
+            "m_Id": "79383d80eabe401fbeecabe06c8171d4"
         }
     ],
     "m_GroupDatas": [
@@ -2016,6 +2022,20 @@
             "m_InputSlot": {
                 "m_Node": {
                     "m_Id": "500bb78b0325488fa3e7e381a0ab3b75"
+                },
+                "m_SlotId": 1
+            }
+        },
+        {
+            "m_OutputSlot": {
+                "m_Node": {
+                    "m_Id": "79383d80eabe401fbeecabe06c8171d4"
+                },
+                "m_SlotId": 0
+            },
+            "m_InputSlot": {
+                "m_Node": {
+                    "m_Id": "bd391e70a11f4a2d961a4c9e552fd8d5"
                 },
                 "m_SlotId": 1
             }
@@ -7196,7 +7216,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "25c6f88587764976b79a49f5ccf8f0a4",
     "m_Id": 0,
-    "m_DisplayName": "Snow Noise Scale",
+    "m_DisplayName": "Snow Gradient Noise",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -8386,6 +8406,21 @@
     "m_CustomColors": {
         "m_SerializableColors": []
     }
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
+    "m_ObjectId": "35265374837e4a2bb84fb727bfbfa90c",
+    "m_Id": 0,
+    "m_DisplayName": "Snow Simple Noise",
+    "m_SlotType": 1,
+    "m_Hidden": false,
+    "m_ShaderOutputName": "Out",
+    "m_StageCapability": 3,
+    "m_Value": 0.0,
+    "m_DefaultValue": 0.0,
+    "m_Labels": []
 }
 
 {
@@ -12508,7 +12543,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Scale",
     "m_StageCapability": 3,
-    "m_Value": 1000.0,
+    "m_Value": 6.5,
     "m_DefaultValue": 500.0,
     "m_Labels": []
 }
@@ -13143,6 +13178,9 @@
         },
         {
             "m_Id": "c9f5ff5117f0499486991ef82e456b47"
+        },
+        {
+            "m_Id": "da24b27da92f4378b378dfc2d7e92340"
         },
         {
             "m_Id": "2bbfd3b732e24d9c95d716c9415af86a"
@@ -14344,6 +14382,42 @@
     "m_RangeValues": {
         "x": 0.0,
         "y": 5.0
+    }
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
+    "m_ObjectId": "79383d80eabe401fbeecabe06c8171d4",
+    "m_Group": {
+        "m_Id": "68f4c73de3574fd883ade4ea10311208"
+    },
+    "m_Name": "Property",
+    "m_DrawState": {
+        "m_Expanded": true,
+        "m_Position": {
+            "serializedVersion": "2",
+            "x": -9365.0,
+            "y": -1236.0,
+            "width": 175.0,
+            "height": 34.0
+        }
+    },
+    "m_Slots": [
+        {
+            "m_Id": "35265374837e4a2bb84fb727bfbfa90c"
+        }
+    ],
+    "synonyms": [],
+    "m_Precision": 0,
+    "m_PreviewExpanded": true,
+    "m_DismissedVersion": 0,
+    "m_PreviewMode": 0,
+    "m_CustomColors": {
+        "m_SerializableColors": []
+    },
+    "m_Property": {
+        "m_Id": "da24b27da92f4378b378dfc2d7e92340"
     }
 }
 
@@ -20970,10 +21044,10 @@
     "m_Guid": {
         "m_GuidSerialized": "2d5fea30-be3f-48cf-b865-93dd7633254d"
     },
-    "m_Name": "Snow Noise Scale",
+    "m_Name": "Snow Gradient Noise",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Snow Noise Scale",
-    "m_DefaultReferenceName": "_Snow_Noise_Scale",
+    "m_RefNameGeneratedByDisplayName": "Snow Gradient Noise",
+    "m_DefaultReferenceName": "_Snow_Gradient_Noise",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -22331,6 +22405,34 @@
         "e31": 0.0,
         "e32": 0.0,
         "e33": 1.0
+    }
+}
+
+{
+    "m_SGVersion": 1,
+    "m_Type": "UnityEditor.ShaderGraph.Internal.Vector1ShaderProperty",
+    "m_ObjectId": "da24b27da92f4378b378dfc2d7e92340",
+    "m_Guid": {
+        "m_GuidSerialized": "c359a4e6-82eb-4b63-ac42-0b0982fde410"
+    },
+    "m_Name": "Snow Simple Noise",
+    "m_DefaultRefNameVersion": 1,
+    "m_RefNameGeneratedByDisplayName": "Snow Simple Noise",
+    "m_DefaultReferenceName": "_Snow_Simple_Noise",
+    "m_OverrideReferenceName": "",
+    "m_GeneratePropertyBlock": true,
+    "m_UseCustomSlotLabel": false,
+    "m_CustomSlotLabel": "",
+    "m_DismissedVersion": 0,
+    "m_Precision": 0,
+    "overrideHLSLDeclaration": false,
+    "hlslDeclarationOverride": 0,
+    "m_Hidden": false,
+    "m_Value": 25.0,
+    "m_FloatType": 1,
+    "m_RangeValues": {
+        "x": 0.0,
+        "y": 1000.0
     }
 }
 
