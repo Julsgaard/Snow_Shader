@@ -94,7 +94,7 @@ Material:
     - _Snow_Direction_X: 0.15
     - _Snow_Direction_Y: 0.5
     - _Snow_Direction_Z: 0.2
-    - _Snow_Height: 1.42
+    - _Snow_Height: 2.224
     - _Snow_Noise_Scale: 0.117
     - _Snow_White_Intensity: 1.75
     - _test: 1.22
