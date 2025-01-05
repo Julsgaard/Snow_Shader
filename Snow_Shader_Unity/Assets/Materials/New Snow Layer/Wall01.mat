@@ -171,7 +171,7 @@ Material:
     - _Snow_Direction_X: 0.15
     - _Snow_Direction_Y: 0.5
     - _Snow_Direction_Z: 0.2
-    - _Snow_Height: 1.45
+    - _Snow_Height: 1.9919996
     - _Snow_Noise_Scale: 0.117
     - _Snow_Offset_X: 0
     - _Snow_Offset_Y: 0
